@@ -4,7 +4,7 @@
   
 - It provides technical descriptions of the organizational goals, business and administrative process, information requirements, supporting applications and technology infrastructure of the enterprise.
   
-- GEAF promotes consistency in the government models and its business process, service and infrastructure.
+- GEAF promotes consistency in the government models and its business processes, services and infrastructures.
   
 - It guides our transformation towards a coherent digital government.
   

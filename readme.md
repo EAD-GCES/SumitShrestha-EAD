@@ -8,8 +8,8 @@ Assignments and Practical of Enterprise Application Development
 | I. |  [Government Enterprise Architecture Framework] | 2078/08/05 | 2078/08/12 |
 | II. |[Short Notes On Agile Methodologies] | 2078/09/19 | 2078/09/26 |
 
-[Government Enterprise Architecture Framework]: https://github.com/parajuliamit/EAD/blob/master/Assignment/Assignment1/Government%20Architecture.md
-[Short Notes On Agile Methodologies]: https://github.com/parajuliamit/EAD/tree/master/Assignment/Assignment%202
+[Government Enterprise Architecture Framework]: https://github.com/sumitxsth3/EAD/blob/master/Assignment/Assignment%201/Government%20Architecture.md 
+[Short Notes On Agile Methodologies]: https://github.com/sumitxsth3/EAD/blob/master/Assignment/Assignment%202/Agile%20Methodologies.md
 
 
 ### Practicals
@@ -21,21 +21,7 @@ Assignments and Practical of Enterprise Application Development
 | 3. |[Singleton Pattern]|
 | 4. |[Factory Pattern]|
 
-[Git Commands]: https://github.com/sumitxsth3/EAD/tree/master/Practical/Lab%20
+[Git Commands]: https://github.com/sumitxsth3/EAD/tree/master/Practical/Lab%201
 [Contribute to Open Source Project]: https://github.com/sumitxsth3/EAD/tree/master/Practical/Lab%202
 [Singleton Pattern]: https://github.com/sumitxsth3/EAD/tree/master/Practical/Lab%203
 [Factory Pattern]: https://github.com/sumitxsth3/EAD/tree/master/Practical/Lab%204
-
-
-
-
-Sumit Shrestha - EAD lab
-
-
-[Lab 1](https://github.com/sumitxsth3/EAD/tree/master/Practical/Lab%201)
-
-[Lab 2](https://github.com/sumitxsth3/EAD/tree/master/Practical/Lab%202)
-
-[Lab 3](https://github.com/sumitxsth3/EAD/tree/master/Practical/Lab%203)
-
-[Lab 4](https://github.com/sumitxsth3/EAD/tree/master/Practical/Lab%204)

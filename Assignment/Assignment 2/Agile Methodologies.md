@@ -2,7 +2,7 @@
 
 ## What is Agile Methodology?
 
-Agile methodology is an iterative and incremental tactic to software design that utilizes constant planning, understanding, upgrading, team partnership, development, and delivery. The agile process is fragmented into separate models that teams work on, thereby encouraging flexibility to changes.
+Agile method is an iterative and incremental tactic to software design that utilizes constant planning, understanding, upgrading, team partnership, development, and delivery. The agile process is fragmented into separate models that teams work on, thereby encouraging flexibility to changes.
 
 By definition, Agile methodology, a variety of project management approach, that is confirmedly deployed for software development, also where requirements and solutions unfold via the collaborative work of self- systemized and cross-functional teams and their users. 
 
